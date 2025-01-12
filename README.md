@@ -16,5 +16,5 @@
 </div>
 
 
-<!--<img src="https://raw.githubusercontent.com/milesantner/milesantner/output/dist/github-contribution-grid-snake.svg" alt="Snake animation">-->
+[<!--<img src="https://raw.githubusercontent.com/milesantner/milesantner/output/dist/github-contribution-grid-snake.svg" alt="Snake animation">-->](https://github.com/milesantner/milesantner/blob/main/.github/workflows/snake.yml)
 
