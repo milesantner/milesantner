@@ -15,4 +15,6 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
+## Contribuições animadas 🐍
 <img src="https://raw.githubusercontent.com/milesantner/milesantner/output/dist/github-contribution-grid-snake.svg" alt="Snake animation">
+
