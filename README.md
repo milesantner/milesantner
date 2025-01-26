@@ -1,7 +1,6 @@
 ## Oi! Eu sou a Milena Santner
 
-- 🌱 Estudando JavaScript e cursando Ciência da Computação
-- 😄 Pronouns: ela/dela
+- 🌱 Cursando Ciência da Computação
 
 <div>
   <a href="https://github.com/milesantner">
